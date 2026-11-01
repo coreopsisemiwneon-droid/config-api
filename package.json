@@ -1,0 +1,13 @@
+{
+  "name": "config-api",
+  "version": "1.0.0",
+  "description": "Small API that reads its settings from environment variables",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "license": "MIT"
+}
